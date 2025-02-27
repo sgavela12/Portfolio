@@ -1,0 +1,14 @@
+# Ignorar el archivo .env
+.env
+
+# Ignorar directorio vendor/
+vendor/
+
+# Ignorar archivos de Composer lock
+composer.lock
+
+# Ignorar otros archivos temporales de IDEs
+*.log
+.idea/
+.vscode/
+.DS_Store
